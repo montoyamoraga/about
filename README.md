@@ -9,10 +9,11 @@
 
 * Biases + databases
 * Civil rights + computers
-* Computer networks
 * Free libre open-source software
 * Choreography + sensors
 * Enviromentalism + veganism
+* Fleetingness + fragility
+* Networks + wireless
 * Noise + randomness
 * Portraiture
 * Remote performance
