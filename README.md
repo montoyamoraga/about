@@ -12,7 +12,7 @@
 * Free libre open-source software
 * Choreography + sensors
 * Enviromentalism + veganism
-* Fleetingness + fragility
+* Fleetingness + mortality
 * Networks + wireless
 * Noise + randomness
 * Portraiture
