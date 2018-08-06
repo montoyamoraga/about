@@ -11,11 +11,12 @@
 * Civil rights + computers
 * Computer networks
 * Free libre open-source software
-* Body movement
+* Choreography + sensors
 * Enviromentalism + veganism
 * Noise + randomness
 * Portraiture
 * Remote performance
+* Sound + sequencing
 * Spanish + Latin America
 * Web scraping
 
