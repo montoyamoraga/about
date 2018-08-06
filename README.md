@@ -2,6 +2,8 @@
 
 ## Personal data
 
+*  [montoyamoraga.io](http://montoyamoraga.io/)
+* [github.com/montoyamoraga/transparency](https://github.com/montoyamoraga/transparency)
 
 ## Studies
 
@@ -10,9 +12,11 @@
 
 ## Founder
 
+* [bandurria](https://bandurria.io/): experimental sound label
+
 * [CODED Escuela](http://codedescuela.cl/): media arts school in Spanish
 
-* [Frequency Sweep](http://frequencysweep.com/): Experimental audiovisual performance festival
+* [frequency wweep](http://frequencysweep.com/): Experimental audiovisual performance festival
 
 ## Affiliations
 
@@ -20,15 +24,26 @@
 
 * [New Latin Wave](https://newlatinwave.com/): Latin American arts festival
 
+## Releases
+
+* [Introducción a p5.js](https://processingfoundation.press/product/introduccion-a-p5-js/): introduction to programming book, using the p5.js framework, in Spanish. Duties include programming, design, translation, transcription.
+
+* [p5js.org/es/](https://p5js.org/es/): p5.js official website in Spanish. Duties include translation of tutorials and reference material, web maintenance, deployment.
+
+* [Invisible EP](https://antonialopez.bandcamp.com/album/invisible): EP by Antonia López. Duties include production, recording, mixing and mastering.
+
 ## Skills
 
 * Audio mixing
 * Audio recording
+* Debugging
 * Music production
 * Finite-state machine design
+* Parameter mapping
 * Physical computing
 * Teaching
 * Transcribing
+* Wireless communication
 
 ## Ongoing projects
 
