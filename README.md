@@ -77,6 +77,7 @@
 ## Ongoing projects
 
 * [art-notes](https://github.com/montoyamoraga/art-notes)
+* [cada-bit](https://github.com/cada-bit)
 * [manuelscorza.com](https://github.com/montoyamoraga/manuelscorza)
 * [maquinitas](https://github.com/maquinitas)
 * [transparency](https://github.com/montoyamoraga/transparency)
