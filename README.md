@@ -5,10 +5,24 @@
 *  [montoyamoraga.io](http://montoyamoraga.io/)
 * [github.com/montoyamoraga/transparency](https://github.com/montoyamoraga/transparency)
 
+## Interests
+
+* Biases + databases
+* Civil rights + computers
+* Computer networks
+* Free libre open-source software
+* Body movement
+* Enviromentalism + veganism
+* Noise + randomness
+* Portraiture
+* Remote performance
+* Spanish + Latin America
+* Web scraping
+
 ## Studies
 
-* [NYU ITP](https://tisch.nyu.edu/itp): Master's, media arts
-* [PUC](https://www.ing.uc.cl/electrica/): Bachelor, electrical engineering
+* [NYU ITP](https://tisch.nyu.edu/itp): Master's degree, media arts
+* [PUC Chile](https://www.ing.uc.cl/electrica/): Bachelor of Science in electrical engineering
 
 ## Founder
 
@@ -30,7 +44,22 @@
 
 * [p5js.org/es/](https://p5js.org/es/): p5.js official website in Spanish. Duties include translation of tutorials and reference material, web maintenance, deployment.
 
+* [Kinectron website](https://kinectron.github.io/): Kinectron website and educational material. Duties include programming, design, tutorial writing, tutorial debugging, research, community building.
+
 * [Invisible EP](https://antonialopez.bandcamp.com/album/invisible): EP by Antonia López. Duties include production, recording, mixing and mastering.
+
+## Teaching
+
+* Creative writing + Python
+* Databases + JSON
+* Graphic art + Processing
+* Live coding + ChucK, Pure Data
+* MIDI + ChucK, Pure Data
+* Movement + Kinectron
+* Sound art + ChucK, Pure Data
+* Web art + p5.js
+* Web scraping + Python
+* Wireless + OSC
 
 ## Skills
 
@@ -75,12 +104,12 @@
 * Teensy
 * [Wekinator](http://www.wekinator.org/)
 
-
 ## Collaborators
 
 * [Camila Colussi](https://www.camilacolussi.com/)
 * [Christian Oyarzún](http://error404.cl/)
 * [Dominic Barrett](http://www.dominicbarrett.com/)
 * [Guillermo Montecinos](http://guillemontecinos.cl/)
+* [Lisa Jamhoury](http://lisajamhoury.com/)
 * [María José Contreras](http://www.mariajosecontreras.com/)
 * [Natalia Cabrera](http://www.nataliacabrera.com/)
